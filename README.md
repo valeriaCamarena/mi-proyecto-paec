@@ -1,11 +1,8 @@
-#mi-presentacion-digital
+#mi-proyecto-favorito
 
-Mi nombre: Danna Valeria Camarena Bejar 
+nombre proyecto :pagian web de venta online
 
-Mis gustos:
-1.cocinar 
-2.el arte y moda 
-3.estar con amigos 
-
-mi meta: 
-dominar lo mas posible los temas que son nuevos como HTML y JavaScript 
+Por que lo elegi : Me gustaria enseñarme a crear
+algo que me sirva enel futuro como una tienda online
+ya que puedo ofrecer todo tipo de productos y es mas
+facil si entiendo bien el CSS , HTML Y JavaScript 
